@@ -1,0 +1,1 @@
+Alguns exemplos de Estruturas de Repetições, desenvolvidas com auxilio do curso DevMedia.
